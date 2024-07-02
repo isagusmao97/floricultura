@@ -1,0 +1,62 @@
+name: floricultura
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  toast: ^0.3.0
+  flutter_share: ^2.0.0
+  flat_list: ^0.1.14
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.2
+  page_view_dot_indicator: ^2.1.0
+  intl: ^0.19.0
+  google_sign_in: ^6.1.6
+  flutter_native_splash: ^2.3.7
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^2.0.0
+
+flutter_native_splash:
+  color: "#fffff0"
+  image: lib/recursos/imagens/splash.png
+
+flutter:
+
+ 
+  uses-material-design: true
+
+  assets:
+    - lib/recursos/json/lista_produtos.json
+    - lib/recursos/json/comentarios.json
+    - lib/recursos/imagens/planta-02.png
+    - lib/recursos/imagens/avatar.png
+    - lib/recursos/imagens/icone-01.png
+    - lib/recursos/imagens/icone-02.png
+    - lib/recursos/imagens/icone-03.png
+    - lib/recursos/imagens/icone-04.png
+    - lib/recursos/imagens/icone-05.png
+
+fonts:
+    - family: Montserrat
+      fonts:
+        - asset: lib/recursos/fonts/Montserrat-Regular.ttf
+        - asset: lib/recursos/fonts/Montserrat-SemiBold.ttf
+
+      

@@ -1,0 +1,305 @@
+{
+    "comentarios": [
+        {
+            "_id": 1,
+            "feed": 1,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "A floricultura é o refúgio da beleza em forma de pétalas e cores vibrantes."
+
+        },
+        {
+            "_id": 2,
+            "feed": 1,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Na floricultura, cada flor é um sorriso da natureza, esperando para iluminar seu dia."
+
+        },
+        {
+            "_id": 3,
+            "feed": 1,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Os produtos da floricultura são como poesias visuais, expressando emoções sem palavras."
+
+        },
+        {
+            "_id": 4,
+            "feed": 2,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Em uma floricultura, cada planta é uma obra-prima da natureza, pronta para decorar e inspirar."
+
+        },
+        {
+            "_id": 5,
+            "feed": 2,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "A diversidade de produtos em uma floricultura transforma qualquer ambiente em um jardim encantado."
+
+        },
+        {
+            "_id": 6,
+            "feed": 2,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Na floricultura, você encontra a delicadeza em forma de flores, pronta para alegrar qualquer ocasião."
+
+        },
+        {
+            "_id": 7,
+            "feed": 2,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Os produtos da floricultura são mais do que meras plantas; são presentes que carregam significados e sentimentos."
+
+        },
+        {
+            "_id": 8,
+            "feed": 2,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Explorar uma floricultura é como mergulhar em um mar de cores e aromas, rejuvenescendo a alma."
+
+        },
+        {
+            "_id": 9,
+            "feed": 3,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "As flores e plantas de uma floricultura são como obras de arte vivas, enfeitando e transformando espaços."
+
+        },
+        {
+            "_id": 10,
+            "feed": 3,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "A variedade de produtos em uma floricultura oferece infinitas possibilidades para expressar amor, gratidão e celebração."
+
+        },
+        {
+            "_id": 11,
+            "feed": 3,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Em uma floricultura, cada flor é um convite para apreciar a beleza efêmera da vida."
+
+        },
+        {
+            "_id": 12,
+            "feed": 3,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Os produtos de uma floricultura são tesouros naturais, prontos para embelezar qualquer ambiente."
+
+        },
+        {
+            "_id": 13,
+            "feed": 3,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Na floricultura, você encontra não apenas flores, mas também inspiração e serenidade em cada arranjo."
+
+        },
+        {
+            "_id": 14,
+            "feed": 3,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "As plantas de uma floricultura são como guardiãs da tranquilidade, trazendo paz e harmonia para quem as recebe."
+
+        },
+        {
+            "_id": 15,
+            "feed": 3,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "A floricultura é o lugar onde os sonhos botânicos se tornam realidade, em forma de flores e plantas exuberantes."
+
+        },
+        {
+            "_id": 16,
+            "feed": 3,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Os produtos de uma floricultura são presentes que alimentam a alma e acariciam o coração."
+
+        },
+        {
+            "_id": 17,
+            "feed": 3,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Em uma floricultura, cada flor é uma pequena promessa de felicidade, pronta para desabrochar."
+
+        },
+        {
+            "_id": 18,
+            "feed": 4,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "As flores e plantas de uma floricultura são como notas musicais na sinfonia da natureza, tocando os sentimentos mais profundos."
+
+        },
+        {
+            "_id": 19,
+            "feed": 4,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "As plantas não apenas decoram nossos lares, mas também nos ensinam sobre paciência, persistência e gratidão."
+
+        },
+        {
+            "_id": 20,
+            "feed": 4,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Cuidar de plantas é uma prática terapêutica, que acalma a mente e rejuvenesce a alma."
+
+        },
+        {
+            "_id": 21,
+            "feed": 4,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Mesmo nos dias mais atribulados, dedicar um momento para cuidar das plantas nos lembra da importância de desacelerar e apreciar os pequenos detalhes da vida."
+
+        },
+        {
+            "_id": 22,
+            "feed": 5,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Cuidar de plantas nos conecta com o ciclo natural da vida, nos lembrando da beleza da transformação e do renascimento."
+
+        },
+        {
+            "_id": 23,
+            "feed": 5,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "O cuidado com as plantas é um ato de conexão com a natureza, que nos lembra da importância de preservar e respeitar o meio ambiente."
+
+        },
+        {
+            "_id": 24,
+            "feed": 5,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Ao cuidar de plantas, estamos cultivando não apenas seu crescimento, mas também o nosso próprio desenvolvimento pessoal e espiritual."
+
+        },
+        {
+            "_id": 25,
+            "feed": 5,
+            "usuario": {
+                "userId": 1,
+                "email": "@",
+                "nome": "Floricultura Hassu"
+            },
+            "datetime": "2022-01-01T12:00-0500",
+            "conteudo": "Ótimos preços e uma ótima variedade de plantas. Comprei a minha e estou feliz que já desabroxou uma florzinha na minha Rosa do Deserto."
+
+        }
+    
+    ]
+}

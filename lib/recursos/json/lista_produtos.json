@@ -1,0 +1,149 @@
+{
+    "produtos": [
+        {
+            "_id": 1,
+            "nome": "Suculenta - Rosa de Pedra",
+            "descricao": "Também conhecida como Bola de Neve Mexicana, é nativa de habitats semi-desérticos.",
+            "preco": "12.50",
+            "imagem": "lib/recursos/imagens/planta-01.jpg",
+            "likes": 20,
+            "cuidados": "Não regar todos os dias, apenas se a terra estiver seca. Não encharque o solo pois pode apodrecer as raizes. Opte sempre por vasos con furos no fundo."
+        },
+        {
+            "_id": 2,
+            "nome": "Suculenta - Orelha de Shrek",
+            "descricao": "Antes apelidada de Orelhas de Hobbit, se dá bem com o sol porém pode ficar murcha e sem brilho.",
+            "preco": "15.00",
+            "imagem": "lib/recursos/imagens/planta-02.png",
+            "likes": 10,
+            "cuidados": "Deve ser regada espaçadamente, deixando o solo secar primeiro antes de regar novamente. A poda é feita apenas em caso de haver folhas ou ramos secos."
+        },
+        {
+            "_id": 3,
+            "nome": "Suculenta - Zebra",
+            "descricao": "Também conhecida como Rabo de Tatu, tem folhas semelhantes a lanças e é conhecida por não ser tóxica a gatos.",
+            "preco": "10.00",
+            "imagem": "lib/recursos/imagens/planta-03.jpg",
+            "likes": 90,
+            "cuidados": "Deve ser regada moderadamente assim como todos os tipos de suculenta. Essa porém, no inverno entra num estado de dormência quando pode ficar um pouco mais de tempo sem regar."
+        },
+        {
+            "_id": 4,
+            "nome": "Orquídea - Vanda",
+            "descricao": "Este é o tipo mais comum encontrado no mercado, e é de fácil adaptabilidade.",
+            "preco": "59.90",
+            "imagem": "lib/recursos/imagens/planta-04.jpg",
+            "likes": 35,
+            "cuidados": "Precisa de água em abundância porém não pode ficar encharcada. É indicado regar todos os dias pela manhã, evitando as folhas e flores. "
+        },
+        {
+            "_id": 5,
+            "nome": "Orquídea - Azul",
+            "descricao": "Não encontrada na natureza de cor azul, é 'tingida' pelo caule. Cheia de significados, é uma das plantas mais interessantes pra se ter em casa.",
+            "preco": "82.90",
+            "imagem": "lib/recursos/imagens/planta-05.jpg",
+            "likes": 70,
+            "cuidados": "Não deve receber luz do sol diretamente, e deve permanecer em ambiente fechado e bem iluminado. Necessário irrigar duas vezes na semana, apenas na raiz. "
+        },
+        {
+            "_id": 6,
+            "nome": "Rosa do Deserto",
+            "descricao": "Nativa da África e Península Arábica nunca passa despercebida graças a grande variedade de cores.",
+            "preco": "60.00",
+            "imagem": "lib/recursos/imagens/planta-06.jpg",
+            "likes": 120,
+            "cuidados": "É importante posicioná-la podada onde não receba luz do sol diretamente. Após quatro dias coloque a muda para tomar sol da manhã, ao surgimento de novos brotos volte a posicionála para tomar sol diariamente."
+        },
+        {
+            "_id": 7,
+            "nome": "Copo de Leite - Vermelho",
+            "descricao": "Espécie normalmente cultivada para decoração ornamental e para produção de flores de corte.",
+            "preco": "55.90",
+            "imagem": "lib/recursos/imagens/planta-07.jpg",
+            "likes": 65,
+            "cuidados": "Precisa ficar em ambiente bem iluminado porém sem receber luz do sol diretamente. A flor não precisa ser regada frequentemente."
+        },
+        {
+            "_id": 8,
+            "nome": "Copo de Leite - Branco",
+            "descricao": "Espécie normalmente cultivada para decoração ornamental e para produção de flores de corte.",
+            "preco": "39.90",
+            "imagem": "lib/recursos/imagens/planta-08.jpg",
+            "likes": 32,
+            "cuidados": "A planta copo de leite gosta de solo úmido, mas não encharcado. Então regue regularmente, especialmente durante os períodos mais quentes e secos, mas evite que a água fique empoçada no prato do vaso ou no solo do jardim."
+        },
+        {
+            "_id": 9,
+            "nome": "Bonsai",
+            "descricao": "Ao contrário do que muitos pensam Bonsai não é uma planta específica mas sim uma técnica utilizada em árvores.",
+            "preco": "200.00",
+            "imagem": "lib/recursos/imagens/planta-09.jpg",
+            "likes": 15,
+            "cuidados": "Um bonsai precisa ter outros atributos além de simplesmente estar plantado num vaso raso e pequeno. A planta deve ser uma réplica de uma árvore da natureza em miniatura. Deve simular os padrões de crescimento e os efeitos da gravidade sobre os galhos, além das marcas do tempo e estrutura geral dos galhos."
+        },
+        {
+            "_id": 10,
+            "nome": "Lírio - Rosa",
+            "descricao": "O lírio é uma planta originária da Ásia, América do Norte e Europa. Mais da metade das espécies de Lírio são encontrados na China e no Japão.",
+            "preco": "30.00",
+            "imagem": "lib/recursos/imagens/planta-10.jpg",
+            "likes": 78,
+            "cuidados": "Deve ser regado em abundância porém sem exageros para evitar que o bulbo apodreça. Deve ser plantada em solo com areia grossa e adubo orgânico. A poda frequente ajuda a manter a planta forte."
+        },
+        {
+            "_id": 11,
+            "nome": "Lírio de Natal",
+            "descricao": "O lírio é uma planta originária da Ásia, América do Norte e Europa. Mais da metade das espécies de Lírio são encontrados na China e no Japão.",
+            "preco": "30.00",
+            "imagem": "lib/recursos/imagens/planta-11.jpg",
+            "likes": 70,
+            "cuidados": "Precisa ser frequentemente hidratado. Apesar de ser uma espécie que gosta muito de água, tome cuidado para não encharcar o solo. "
+        },
+        {
+            "_id": 12,
+            "nome": "Terra Vegetal - Terra do Campo",
+            "descricao": "Saco de Terra Vegetal de 2kg, da marca Terra do Campo.",
+            "preco": "22.90",
+            "imagem": "lib/recursos/imagens/terra-01.png",
+            "likes": 30,
+            "cuidados": "Para utilizá-lo, é importante que você misture 40% de terra vegetal, 30% de terra tradicional e 30% de areia de construção. Essa mistura é importante para que mantenha a terra mais solta."
+        },
+        {
+            "_id": 13,
+            "nome": "Terra Vegetal Adubada - JM Jardinagem",
+            "descricao": "Saco de Terra Vegetal Adubada de 5kg, da marca JM Jardinagem.",
+            "preco": "25.90",
+            "imagem": "lib/recursos/imagens/terra-02.jpeg",
+            "likes": 21,
+            "cuidados": "A Terra Adubada melhora a resistência e a durabilidade das plantas, em função do clima e das doenças. Ela promove uma melhor drenagem e aeração do solo, podendo ainda ser acrescida de fertilizantes químicos."
+        },
+        {
+            "_id": 14,
+            "nome": "Vaso de Plantas M - Terracota",
+            "descricao": "Vaso de plantas tamanho M, de plástico da cor terracota.",
+            "preco": "10.00",
+            "imagem": "lib/recursos/imagens/vaso.jpg",
+            "likes": 20,
+            "cuidados": "Os vasos de planta mais indicados, são aqueles que possuem furos na base para evasão da água em excesso, isso irá impedir que a terra fique encharcada. A escolha do vaso deve ser feita de acordo com o tamanho da planta."
+        },
+        {
+            "_id": 15,
+            "nome": "Húmus de Minhoca - Komatsu Garden",
+            "descricao": "O Húmus de Minhoca é uma substância que confere uma nutrição de qualidade para as plantas, além de prevenir algumas doenças.",
+            "preco": "10.90",
+            "imagem": "lib/recursos/imagens/adubo.jpeg",
+            "likes": 90,
+            "cuidados": "O húmus é rico em matéria orgânica. O húmus pode ser usado em culturas como hortaliças, frutas, pastagens, cereais, plantas ornamentais. O húmus pode ser usado também diluído em água."
+        },
+        {
+            "_id": 16,
+            "nome": "Kit de Ferramentas de Jardinagem",
+            "descricao": "Kit contendo 3 ferramentas de jardinagem, de material plástico.",
+            "preco": "13.00",
+            "imagem": "lib/recursos/imagens/ferramentas.png",
+            "likes": 40,
+            "cuidados": "As ferramentas de jardinagem geralmente têm partes móveis, como lâminas de tesoura e cortadores de grama, que precisam de lubrificação para funcionar adequadamente. Ainda é possível aplicar produtos que ajudam a evitar o enferrujamento."
+        }
+
+    ]
+}
