@@ -364,7 +364,7 @@ class _DetalhesState extends State<Detalhes> {
                     IconButton(
                         onPressed: () {
                           final texto =
-                              '${_produto["nome"]} por R\$ ${_produto["preco"].toString()} disponível no Melhores Marcas.\n\n\nBaixe o Melhores Marcas na PlayStore!';
+                              '${_produto["nome"]} por R\$ ${_produto["preco"].toString()} disponível na Floricultura Hassu.\n\n\nBaixe o App na PlayStore!';
 
                           FlutterShare.share(
                               title: "Floricultura Hassu", text: texto);
